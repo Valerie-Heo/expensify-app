@@ -1,0 +1,19 @@
+{
+ "editor.formatOnSave": true,
+ "prettier.requirePragma": true,
+ "typescript.format.insertSpaceAfterCommaDelimiter": true,
+ "javascript.format.insertSpaceAfterCommaDelimiter": true,
+ "javascript.format.insertSpaceAfterFunctionKeywordForAnonymousFunctions": true,
+ "javascript.format.insertSpaceAfterKeywordsInControlFlowStatements": true,
+ "javascript.format.insertSpaceAfterOpeningAndBeforeClosingEmptyBraces": true,
+ "javascript.format.insertSpaceAfterOpeningAndBeforeClosingNonemptyBraces": true,
+ "javascript.format.insertSpaceAfterSemicolonInForStatements": true,
+ "javascript.format.insertSpaceBeforeAndAfterBinaryOperators": true,
+ "typescript.format.insertSpaceAfterFunctionKeywordForAnonymousFunctions": true,
+ "typescript.format.insertSpaceAfterKeywordsInControlFlowStatements": true,
+ "typescript.format.insertSpaceAfterOpeningAndBeforeClosingEmptyBraces": true,
+ "typescript.format.insertSpaceAfterOpeningAndBeforeClosingNonemptyBraces": true,
+ "typescript.format.insertSpaceAfterSemicolonInForStatements": true,
+ "typescript.format.insertSpaceBeforeAndAfterBinaryOperators": true,
+ "files.autoSave": "afterDelay"
+}
